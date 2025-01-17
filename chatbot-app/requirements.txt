@@ -1,25 +1,7 @@
-# LangChain and related modules
-langchain
-langchain_community
-langchain_openai
-
-# PySpark for distributed data processing
-pyspark
-
-# SQLAlchemy for database interaction
-sqlalchemy
-
-# Pandas for data manipulation (if needed for smaller data tasks)
-pandas
-
-# FAISS for vector search
-faiss-cpu
-
-# Dotenv for loading environment variables
-python-dotenv
-
-# Your LLaMa3 library
-llama3
-
-# Additional utility libraries (if needed)
-numpy
+python-dotenv==0.19.0
+sagemaker==2.49.0
+sqlalchemy==1.4.25
+pandas==1.3.3
+pyspark==3.1.2
+langchain==0.0.89
+boto3==1.18.67
