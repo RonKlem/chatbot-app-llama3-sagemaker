@@ -1,0 +1,25 @@
+# LangChain and related modules
+langchain
+langchain_community
+langchain_openai
+
+# PySpark for distributed data processing
+pyspark
+
+# SQLAlchemy for database interaction
+sqlalchemy
+
+# Pandas for data manipulation (if needed for smaller data tasks)
+pandas
+
+# FAISS for vector search
+faiss-cpu
+
+# Dotenv for loading environment variables
+python-dotenv
+
+# Your LLaMa3 library
+llama3
+
+# Additional utility libraries (if needed)
+numpy
